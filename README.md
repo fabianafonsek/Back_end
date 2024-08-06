@@ -1,2 +1,2 @@
 # back_end
-Repositório da Disciplina de Backend
+Repositório da Disciplina de Back-end
